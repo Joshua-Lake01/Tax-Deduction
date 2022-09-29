@@ -1,0 +1,5 @@
+C:\Users\lakes\Desktop\Tax Deduction Project.exe
+C:\Users\lakes\Desktop\Tax Deduction Project.dll
+C:\Users\lakes\Desktop\Tax Deduction Project.deps.json
+C:\Users\lakes\Desktop\Tax Deduction Project.runtimeconfig.json
+C:\Users\lakes\Desktop\Tax Deduction Project.pdb

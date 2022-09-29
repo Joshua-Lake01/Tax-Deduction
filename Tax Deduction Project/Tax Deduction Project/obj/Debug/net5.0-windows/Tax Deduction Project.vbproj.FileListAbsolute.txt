@@ -1,0 +1,20 @@
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\bin\Debug\net5.0-windows\Tax Deduction Project.exe
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\bin\Debug\net5.0-windows\Tax Deduction Project.deps.json
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\bin\Debug\net5.0-windows\Tax Deduction Project.runtimeconfig.json
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\bin\Debug\net5.0-windows\Tax Deduction Project.runtimeconfig.dev.json
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\bin\Debug\net5.0-windows\Tax Deduction Project.dll
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\bin\Debug\net5.0-windows\ref\Tax Deduction Project.dll
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\bin\Debug\net5.0-windows\Tax Deduction Project.pdb
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax Deduction Project.vbproj.AssemblyReference.cache
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax_Deduction_Project.Form1.resources
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax Deduction Project.vbproj.GenerateResource.cache
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax Deduction Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax Deduction Project.AssemblyInfoInputs.cache
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax Deduction Project.AssemblyInfo.vb
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax Deduction Project.vbproj.CoreCompileInputs.cache
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax Deduction Project.dll
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\ref\Tax Deduction Project.dll
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax Deduction Project.pdb
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax Deduction Project.genruntimeconfig.cache
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax_Deduction_Project.Direct.resources
+C:\Users\lakes\Desktop\Tax Deduction Project\Tax Deduction Project\obj\Debug\net5.0-windows\Tax_Deduction_Project.Form2.resources
